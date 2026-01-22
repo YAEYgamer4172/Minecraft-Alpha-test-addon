@@ -1,0 +1,7 @@
+{
+  "format_version": "1.19.40",
+  "custom:glowing_block": {
+    "textures": "blockia/textures/blocks/texture",
+    "geometry": "geometry.custom_block"
+  }
+}

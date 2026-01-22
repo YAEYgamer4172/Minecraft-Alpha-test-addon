@@ -1,0 +1,18 @@
+{
+  "format_version": "1.19.40",
+  "minecraft:block": {
+    "description": {
+      "identifier": "custom:glowing_block"
+    },
+    "components": {
+      "minecraft:material_instances": {
+        "*": {
+          "texture": "glowing_block_tex",
+          "render_method": "alpha_test"
+        }
+      },
+      "minecraft:geometry": "geometry.custom_block",
+      "minecraft:light_emission": 15
+    }
+  }
+}

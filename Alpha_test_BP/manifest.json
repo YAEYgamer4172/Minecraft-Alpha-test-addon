@@ -1,0 +1,35 @@
+{
+  "format_version": 2,
+  "header": {
+	  "description": "§cThis is only for alpha test in minecraft PE and bedrock, not for java",
+	  "name": "Alpha test Behaviour Pack",
+	  "uuid": "c75aef78-7408-42fa-9f6f-707ad1a705d0",
+	  "version": [1, 0, 0],
+	  "min_engine_version": [1, 18, 74]
+  }
+  "modules" : [
+      {
+		  "description": "Alpha test addon",
+		  "version": [1, 0, 0],
+		  "uuid": "a899bd13-a1a7-4f04-b37b-40cfa39e9ee1",
+		  "type": "data"
+	  }
+  ]
+  "dependencies" : [
+    {
+		"uuid": "0594393f-fbca-4e4b-b271-aac773da23c7",
+		"version": [1, 2, 5],
+		"name": "KIOS-k"
+	},
+	{
+		"uuid": "3ceca068-290d-4443-ba21-dadcbba2cf07",
+		"version": [1, 5, 0],
+		"name": "bp-addon"
+	}
+  ],
+  "metadata": {
+	  "author": ["Scepe"],
+	  "license": "MIT",
+	  "product_type": "addon"
+  }
+}

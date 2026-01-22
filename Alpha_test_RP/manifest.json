@@ -1,0 +1,35 @@
+{
+  "format_version": 2,
+  "header": {
+	  "description": "§cThis is only for alpha test in minecraft PE and bedrock, not for java",
+	  "name": "Alpha test Resource Pack",
+	  "uuid": "f9a755dc-cb2f-4feb-9d33-889e1e113094",
+	  "version": [1, 0, 0],
+	  "min_engine_version": [1, 18, 74]
+  }
+  "modules" : [
+      {
+		  "description": "Alpha test addon",
+		  "version": [1, 0, 0],
+		  "uuid": "51deceab-eca4-4b26-8e0a-4c131d4d97b8",
+		  "type": "resources"
+	  }
+  ]
+  "dependencies" : [
+    {
+		"uuid": "0594393f-fbca-4e4b-b271-aac773da23c7",
+		"version": [1, 2, 5],
+		"name": "KIOS-k"
+	},
+	{
+		"uuid": "932fe4c4-65de-43e5-ae1e-945653495fdd",
+		"version": [1, 5, 0],
+		"name": "rp-addon"
+	}
+  ],
+  "metadata": {
+	  "author": ["Scepe"],
+	  "license": "MIT",
+	  "product_type": "addon"
+  }
+}
