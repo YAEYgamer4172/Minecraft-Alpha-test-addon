@@ -1,2 +1,5 @@
-# Minecraft-Alpha-test-addon
-This is only for developers and Alpha testers (gets early access). see README.md for more information
+This is required!!!
+Make sure to use "upcoming creator features" to make sure you get more alpha mobs or blocks.
+Main map: Saphora (under construction).
+
+More things will be later on.
